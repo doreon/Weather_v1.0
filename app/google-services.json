@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "851027364083",
+    "firebase_url": "https://doreonproject.firebaseio.com",
+    "project_id": "doreonproject",
+    "storage_bucket": "doreonproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851027364083:android:07514b9f24580a38c3cf86",
+        "android_client_info": {
+          "package_name": "ru.sibgu.doreon.coursework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851027364083-fl154nb3840a1ccv9va3b7vegujll73v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQazBf1NremEunDJFjrqdutY1Uhtv9UaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851027364083-fl154nb3840a1ccv9va3b7vegujll73v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
